@@ -15,3 +15,6 @@ for a in range(1,11,1):
     
 for a in range(1,11,1):
     print(a*2)
+    
+for n in range(1,11,1):
+    print("2*",n,"=", 2*n)
