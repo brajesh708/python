@@ -25,3 +25,19 @@ def multiply_tuple(tup):
     return product
 
 print(multiply_tuple(tup1))
+
+
+def max_value_tuple(tup):
+    return max(tup)
+
+print(max_value_tuple(tup1))
+
+def min_value_tuple(tup):
+    return min(tup)
+
+print(min_value_tuple(tup1))
+
+def reverse_tuple(tup):
+    return tup[::-1]
+
+print(reverse_tuple(tup1))
