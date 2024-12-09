@@ -21,6 +21,8 @@ else:
 
 for i in range(3):
     print("Hello Geek")
+    
+
 
     
 print("Test case 2: Strings with multiple words")
