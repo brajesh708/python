@@ -10,3 +10,10 @@ print(reduce(lambda x, y: x * y, numbers))  # Output: 60
 
 print(reduce(lambda x, y: x - y, numbers))  # Output: -12
 
+thisdict = {
+  "brand": "Ford",
+  "model": "Mustang",
+  "year": 1964
+}
+
+print(len(thisdict))
