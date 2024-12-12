@@ -33,3 +33,5 @@ def is_prime(n):
         r += 2
     return True
 print(is_prime(78), is_prime(79))
+
+

@@ -12,6 +12,8 @@ print(add_tuples(tup1, tup2))
 
 
 
+
+
 def sum_of_tuple(tup):
     sum = 0
     for i in tup:
