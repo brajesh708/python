@@ -35,3 +35,5 @@ ans = add(num1, num2)
 print(f"The addition of {num1} and {num2} results {ans}.")
 
 
+x = lambda a, b, c : a + b + c
+print(x(5, 6, 2))
