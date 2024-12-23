@@ -22,14 +22,15 @@
 # print("Division:", divide(a, b))
 
 
-print("heelo world")
+# print("heelo world")
 
-print("""
-      this is my
-      new weew site
-      from
+# print("""
+#       this is my
+#       new weew site
+#       from
       
-      """)
+#       """)
+
 
 
 

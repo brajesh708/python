@@ -14,34 +14,34 @@ print(add_tuples(tup1, tup2))
 
 
 
-def sum_of_tuple(tup):
-    sum = 0
-    for i in tup:
-        sum += i
-    return sum
+# def sum_of_tuple(tup):
+#     sum = 0
+#     for i in tup:
+#         sum += i
+#     return sum
 
-print(sum_of_tuple(tup1))
+# print(sum_of_tuple(tup1))
 
-def multiply_tuple(tup):
-    product = 1
-    for i in tup:
-        product *= i
-    return product
+# def multiply_tuple(tup):
+#     product = 1
+#     for i in tup:
+#         product *= i
+#     return product
 
-print(multiply_tuple(tup1))
+# print(multiply_tuple(tup1))
 
 
-def max_value_tuple(tup):
-    return max(tup)
+# def max_value_tuple(tup):
+#     return max(tup)
 
-print(max_value_tuple(tup1))
+# print(max_value_tuple(tup1))
 
-def min_value_tuple(tup):
-    return min(tup)
+# def min_value_tuple(tup):
+#     return min(tup)
 
-print(min_value_tuple(tup1))
+# print(min_value_tuple(tup1))
 
-def reverse_tuple(tup):
-    return tup[::-1]
+# def reverse_tuple(tup):
+#     return tup[::-1]
 
-print(reverse_tuple(tup1))
+# print(reverse_tuple(tup1))
