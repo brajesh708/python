@@ -10,6 +10,12 @@ else:
     
     
 # Another way to check leap year
+year = int(input("Enter any year"))
+if (year%4 ==0) and (year%100!=0):
+    print("this is leep year")
+
+
+
 
 def is_leap_year(year):
     return year % 4 == 0 and (year % 100!= 0 or year % 400 == 0)
